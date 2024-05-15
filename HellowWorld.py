@@ -2,7 +2,6 @@ import time
 
 start_time = time.time()
 
-# Your code here
 print("Hello World!")
 
 end_time = time.time()
